@@ -1,6 +1,12 @@
 # PSL Dataset
 
-Summary for the number of videos and signs:
+It uses 3 different types of datasets and gets mediapipe data from videos in the form if npy array and saves it in the npy file. To see the usage and how the data is obtained or processed please refer to [GDS---Gesture-Decode-System](https://github.com/FaseehUllahJafar/GDS---Gesture-Decode-System).
+
+## Datasets
+
+1.  PSL - Dataset from PSL website
+2.  Schools/Professionals - Dataset from schools where sign language is taught
+3.  Personal - Generated personaly
 
 --------------------------------------------
 ## Video Statistics
@@ -27,6 +33,6 @@ Summary for the number of videos and signs:
 
 ----------------------------------
 
-Minimum Number of Videos: 35
+Minimum Number of Videos: 33
 
 Maximum Number of Videos: 43
