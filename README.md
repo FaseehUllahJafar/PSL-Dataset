@@ -35,4 +35,4 @@ It uses 3 different types of datasets and gets mediapipe data from videos in the
 
 Minimum Number of Videos: 33
 
-Maximum Number of Videos: 43
+Maximum Number of Videos: 45
